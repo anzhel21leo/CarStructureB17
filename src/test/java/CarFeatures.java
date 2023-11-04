@@ -1,4 +1,4 @@
-public class carFeatures {
+
     public class CarFeatures {
         String Doors;
         String color;
@@ -6,4 +6,3 @@ public class carFeatures {
 
         String Model;
     }
-}
